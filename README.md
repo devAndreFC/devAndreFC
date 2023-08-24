@@ -1,7 +1,7 @@
 ### Olá 👋
 
 - 🔭 Atualmente, estou apriorando minhas habilidades FullStack, com Python, Node e React
-- 🌱 Estudado JavasCript, TypeScript, Testes unitários
+- 🌱 Estudado JavaScript, TypeScript, Testes unitários
 - 👯 Procuro colaborar com projetos desafiadores e inovadores. A tecnologia eu aprendo 😉
 - 🫡 Sobre mim: Ex-professor de programação e robótica, ensinando C++, Python e desenvolvimento web. Minha sólida formação acadêmica e experiência como educador me proporcionaram expertise em resolução de problemas, pensamento lógico e trabalho em equipe. Apaixonado pela arte da programação e tecnologia, sempre aprendendo algo novo, este sou eu, André Oliveira 😎.
 
