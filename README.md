@@ -3,7 +3,7 @@
 - 🔭 Atualmente, estou apriorando minhas habilidades Backend, com Python, Celery e DRF.
 - 🌱 Estudado Redis, PostgreSQL, Testes unitários
 - 👯 Procuro colaborar com projetos desafiadores e inovadores. A tecnologia eu aprendo 😉
-- 🫡 Sobre mim: Ex-professor de programação e robótica, ensinando C++, Python e desenvolvimento web. Minha sólida formação acadêmica e experiência como educador me proporcionaram expertise em resolução de problemas, pensamento lógico e trabalho em equipe. Apaixonado pela arte da programação e tecnologia, sempre aprendendo algo novo, este sou eu, André Oliveira 😎.
+- 🫡 Sobre mim: Desenvolvedor Banckend e professor de programação e robótica, ensinando C++, Python e desenvolvimento web. Minha sólida formação acadêmica e experiência como educador me proporcionaram expertise em resolução de problemas, pensamento lógico e trabalho em equipe. Apaixonado pela arte da programação e tecnologia, sempre aprendendo algo novo, este sou eu, André Oliveira 😎.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
