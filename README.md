@@ -22,7 +22,6 @@ Sou um **Desenvolvedor Backend** com experiência em **Django, Django REST Frame
 
 Se você tem um projeto desafiador ou quer trocar uma ideia, me chama! 😃  
 
-📫 **Contato:** [Seu e-mail ou LinkedIn]  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -36,7 +35,7 @@ Se você tem um projeto desafiador ou quer trocar uma ideia, me chama! 😃
 </div>
 
 ##
-
+📫 **Contato:** 
 <div> 
   <a href = "mailto:dev.andrefc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/andre-fc-oliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
