@@ -1,4 +1,4 @@
-# Olá, eu sou o André Oliveira! 👋  
+# Olá 👋  
 
 ## 🚀 Sobre mim  
 Sou um **Desenvolvedor Backend** com experiência em **Django, Django REST Framework, Docker, Celery e PostgreSQL**. Atualmente, estou expandindo meus conhecimentos na área de **Inteligência Artificial**, com foco em **chatbots e automações**.  
