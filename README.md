@@ -1,9 +1,28 @@
-### Olá 👋
+# Olá, eu sou o André Oliveira! 👋  
 
-- 🔭 Atualmente, estou apriorando minhas habilidades Backend, com Python, Celery e DRF.
-- 🌱 Estudado Redis, PostgreSQL, Testes unitários
-- 👯 Procuro colaborar com projetos desafiadores e inovadores. A tecnologia eu aprendo 😉
-- 🫡 Sobre mim: Desenvolvedor Banckend e professor de programação e robótica, ensinando C++, Python e desenvolvimento web. Minha sólida formação acadêmica e experiência como educador me proporcionaram expertise em resolução de problemas, pensamento lógico e trabalho em equipe. Apaixonado pela arte da programação e tecnologia, sempre aprendendo algo novo, este sou eu, André Oliveira 😎.
+## 🚀 Sobre mim  
+Sou um **Desenvolvedor Backend** com experiência em **Django, Django REST Framework, Docker, Celery e PostgreSQL**. Atualmente, estou expandindo meus conhecimentos na área de **Inteligência Artificial**, com foco em **chatbots e automações**.  
+
+## 🛠️ Tecnologias e Ferramentas  
+- **Linguagem principal**: Python 🐍  
+- **Frameworks e Bibliotecas**: Django, DRF, Celery  
+- **Banco de Dados**: PostgreSQL  
+- **Infraestrutura**: Docker, Redis, Azure  
+- **Testes**: Pytest, Testes Unitários  
+
+## 📚 O que estou estudando?  
+- **Redis e Mensageria** para processamento assíncrono  
+- **Testes automatizados** para garantir qualidade e segurança  
+- **IA aplicada a chatbots e automações inteligentes**  
+
+## 🎯 Como trabalho?  
+- Gosto de resolver problemas complexos e aprender novas tecnologias no processo  
+- Busco sempre boas práticas de desenvolvimento e código limpo  
+- Tenho experiência como professor de programação e robótica, ensinando C++, Python e desenvolvimento web  
+
+Se você tem um projeto desafiador ou quer trocar uma ideia, me chama! 😃  
+
+📫 **Contato:** [Seu e-mail ou LinkedIn]  
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andre-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
