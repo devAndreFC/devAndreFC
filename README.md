@@ -1,7 +1,7 @@
 # Olá 👋  
 
 ## 🚀 Sobre mim  
-Sou um **Desenvolvedor Backend** com experiência em **Django, Django REST Framework, Docker, Celery e PostgreSQL**. Atualmente, estou expandindo meus conhecimentos na área de **Inteligência Artificial**, com foco em **chatbots e automações**.  
+Sou **Desenvolvedor** com experiência em **Django, Django REST Framework, Docker, Celery e PostgreSQL**. Atualmente, estou expandindo meus conhecimentos na área de **Inteligência Artificial**, com foco em **chatbots e automações**. Além de aprimorar meus conhecimentos em arquitetura de software e como os frameworks de diversas linguagens, como PHP, C# e Java.
 
 ## 🛠️ Tecnologias e Ferramentas  
 - **Linguagem principal**: Python 🐍  
